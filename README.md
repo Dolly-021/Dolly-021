@@ -59,14 +59,15 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dolly-021&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolly-021&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dolly-021&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://streak-stats.demolab.com?user=Dolly-021&theme=tokyonight" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Dolly-021&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dolly-021&theme=tokyo-night" />
 
 </div>
+
 
 
 <img src="https://raw.githubusercontent.com/Dolly-021/Dolly-021/output/snake.svg" alt="Snake animation" />
