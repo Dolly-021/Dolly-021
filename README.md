@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ## Statistic
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolly021&show_icons=true&theme=radical)
 
 
 <img src="https://raw.githubusercontent.com/Dolly-021/Dolly-021/output/snake.svg" alt="Snake animation" />
