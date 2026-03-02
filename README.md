@@ -41,12 +41,19 @@ Here are some ideas to get you started:
 
 **Languages & Web**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,java" />
+  </a>
+</p>
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,gcp" />
+  </a>
+</p>
 
 
 <img src="https://raw.githubusercontent.com/Dolly-021/Dolly-021/output/snake.svg" alt="Snake animation" />
