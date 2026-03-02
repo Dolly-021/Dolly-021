@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Statistics
 
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dolly-021&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Dolly-021&theme=tokyonight)
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Dolly-021&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dolly-021&theme=tokyo-night)
 
+</div>
 
 <img src="https://raw.githubusercontent.com/Dolly-021/Dolly-021/output/snake.svg" alt="Snake animation" />
